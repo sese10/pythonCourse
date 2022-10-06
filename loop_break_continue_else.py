@@ -1,4 +1,4 @@
-print("Loop break continue and else\n")
+print("Loop break continue else\n")
 # use for loop to iterate from 0 to 10
 # for each iteration print out "Number ", i
 # if the i value is equal to 2 add the continue

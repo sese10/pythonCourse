@@ -1,4 +1,4 @@
-print ("anonymous function")
+print("anonymous function")
 #create an anonymous function that prints out "Hello World"
 #invoke/call the function
 
