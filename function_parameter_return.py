@@ -17,14 +17,6 @@ course("python")
 
 
 
-
-
-
-
-
-
-
-
 """
 print("\nrequired parameter")
 def greet(name):
